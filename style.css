@@ -1,0 +1,33 @@
+html {
+    background-color: #ff7fff;
+    color: #3f003f;
+}
+
+header, footer {
+    text-align: center;
+}
+
+.soweli-container {
+    border: 3px solid #3f003f;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.soweli-img {
+    display: block;
+    width: 95%;
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.soweli-desc {
+    text-align: center;
+}
+
+a {color: #ff007f;}
+a:visited {color: #bf003f;}
+a:active {color:#7f00bf;}
